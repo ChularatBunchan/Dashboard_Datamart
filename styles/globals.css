@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans&display=swap');
 
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Instrument Sans', sans-serif;
 }
 
 html,
@@ -22,6 +22,11 @@ a {
   text-decoration: none;
 }
 
+.test {
+  margin-left: 12%;
+  width: 70%;
+}
+
 .Slides{
   width: 80%;
   margin: auto;
@@ -32,38 +37,56 @@ a {
   width: 70%;
 }
 
+.Weed {
+  margin-left: 12%;
+  padding: 2rem;
+}
+
+.WeedWay {
+  /* margin-left: 2%; */
+  margin-top: 2rem;
+}
+
+.TableBuB{
+  margin: 1rem;
+}
+
+.container {
+  display: flex;
+}
+
 aside {
   position: fixed;
   width: 10%;
   height: 100%;
   background-color: #b4cded;
   box-shadow: 4px 0 6px 0 rgba(167, 167, 167, 0.75);
+  color: rgba(34, 34, 34, 0.75);
 }
 
 .wrapper>ul {
   list-style-type: none;
   text-align: center;
-  margin-top: 20px;
-  padding-left: 10px;
+  margin-top: 12px;
   display: flex;
   flex-direction: column;
   font-size: 18px;
-  gap: 1.5em;
+  gap: 1em;
+  transition:  1000ms;
 }
 
 .wrapper>ul>li{
-  padding: .7em;
-  border-radius: 1em;
+  margin: 0;
+  padding: 1em;
 }
 
 .wrapper>ul>li:hover{
   background-color: rgb(132, 181, 236);
   color: aliceblue;
-transition: 0.2s;
+  transition: 0.2s;
 }
 
 .wrapper {
-  padding: 1em;
   z-index: 1;
 }
 
@@ -76,9 +99,17 @@ transition: 0.2s;
 }
 
 .title {
-  padding: 1em;
-  text-align: center;
+  align-items: center;
+  color: #214DAD;
   background-color: #f0f0f0;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  padding: .5rem;
+}
+
+#SVP {
+  color: #168689;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -91,90 +122,217 @@ transition: 0.2s;
 
 .content{
   display: flex;
+  gap: 4rem;
   flex-wrap: wrap;
-  margin-left: 13%;
+  margin-top: 1rem;
+  margin-left: 12%;
 }
 
 .pages {
-  margin-left: 13%;
+  margin-left: 12%;
 }
 
 .conwrapper {
   display: flex;
   justify-items: center;
   width: 90%;
-  height: 5rem;
-  margin-top: 2rem;
+  margin-top: .5rem;
 }
 
 .tabs {
   display: flex;
   height: 100%;
-  justify-content: space-evenly;
   align-items: center;
   background-color: aliceblue;
-  padding: 3rem 1rem;
+  width: 22rem;
   border-radius: 1rem;
   cursor: pointer;
   box-shadow: 3px 3px 6px 0 rgba(206, 206, 206, 0.75);
 }
 
 .conwrapper {
-  gap: 10rem;
+  gap: 3rem;
 }
 
 .categories {
   padding: 1rem;
-  font-size: .7rem;
+  font-size: .5rem;
   display: flex;
+  gap: 2rem;
+}
+
+#texth1 {
+  width: 7rem;
 }
 
 .bar{
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .charts{
   gap: 2rem;
   display: flex;
+  width: 90%;
 }
 
 .chart1 {
-  margin-top: 4rem;
+  margin-top: 1rem;
   background-color: aliceblue;
   padding: 2rem;
   border-radius: 1rem;
-  width: 60%;
+  align-content: center;
+  height: 34rem;
+  width: 50rem;
   border: 2px #b4cded solid;
 }
 
+.Mchart {
+  margin-top: 1rem;
+  width: 100%;
+  padding: 1rem 0 2rem;
+}
+
+#SPAN{
+  margin: 2rem;
+  width: 100%;
+  border: #b4cded 1px solid;
+}
+
 .chart2 {
-  margin-top: 4rem;
+  margin-top: 1rem;
   background-color: aliceblue;
-  padding: 1rem;
+  padding: 40px;
   border-radius: 1rem;
-  width: 30%;
+  width: 600px;
   border: 2px #b4cded solid;
   align-content: center;
 }
 
-form{
-  margin-left: 2rem;
+.PieChart{
+  margin-top: 2rem;
+}
+
+.BarChartDay {
+  width: 100%;
+  height: 24rem;
+  margin: .7rem;
 }
 
 form>select{
+  width: 10rem;
   border-radius: 1rem;
   padding: .4rem;
+  font-size: 1.5rem;
+  border: 3px #b4cded solid;
+}
+
+.BarChart {
+  width: 60rem;
+  height: 17rem;
+}
+
+.buttonMid>button {
+  margin: .3rem;
+  background-color: #b4cded;
+  border: none;
+  width: 6rem;
+  border-radius: .4rem;
+  padding: 1rem;
+}
+
+.button {
+  background-color: aliceblue;
+  width: 9%;
   font-size: 1rem;
-  border-color: rgb(180, 180, 228);
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.button:hover {
+  font-size: medium;
+  color: #fff;
+  font-weight: normal;
+  font-size: larger;
+  background-color: rgb(132, 181, 236);
+  box-shadow: 5px 5px 5px 0 rgba(206, 206, 206, 0.75);
+  transition: 300ms;
 }
 
 form>input{
   border-radius: 1rem;
   border: .1rem solid;
   border-color: rgb(180, 180, 228);
-  padding: .7rem;
+  padding: .5rem;
   width: 60%;
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.2rem;
+  font-weight:bolder;
   background-color: white;
+}
+
+.Img {
+  display: flex;
+}
+
+.MapInfo {
+  gap: 1rem;
+  display: flex;
+  background-color: rgb(151, 207, 144);
+  box-shadow: 0px 5px 5px 0px rgba(206, 206, 206, 0.75);
+  padding: 1rem;
+  width: fit-content;
+}
+
+.Img > #Img2 {
+  display: flex;
+  width: 30px;
+  height: 30px;
+}
+
+.Img > img {
+  display: flex;
+  width: 20px;
+}
+
+.Img > h5{
+  margin: .5rem;
+  font-weight: bolder;
+}
+
+.Butt {
+  float: right;
+}
+
+.Pietop10 {
+  justify-content: center;
+  align-items: center;
+}
+
+.DouBox {
+  display: flex;
+  margin-left: 10rem;
+}
+
+.legend {
+  margin: 2rem;
+  height: fit-content;
+}
+
+.active {
+  background-color: #b4cded;
+  color: #fff;
+}
+
+.tabletop10 {
+  margin: 2rem;
+}
+
+#termsabuy {
+  width: 8rem;
+}
+
+.tableVDC {
+  display: flex;
+  gap: 2rem;
 }

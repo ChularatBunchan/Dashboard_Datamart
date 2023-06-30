@@ -7,10 +7,16 @@ export default function Sidebar() {
   return (
     <aside>
       <div className="text">
-        <Link href="/"><h2>Dashboard</h2></Link>
+        <Link href="/"><h2>Dashbroad</h2></Link>
       </div>
       <div className="wrapper">
         <ul>
+          <li>
+            <Link href="/SabuyMoney">
+              <BsFillDatabaseFill size={30} />
+              <p>Sabuy Money</p>
+            </Link>
+          </li>
           <li>
             <Link href="/VDC">
               <BsSuitHeartFill size={30} />

@@ -1,0 +1,135 @@
+"entity","service","sub_service","count"
+"VDC","TMNTOPUP","TMNTOPUP",7587
+"VDC","AIS","AIS",3949
+"VDC","PEA","PEA",1836
+"VDC","KBANKDEPOSIT","KBANKDEPOSIT",938
+"VDC","KTBDEPOSIT","KTBDEPOSIT",889
+"VDC","DTAC","DTAC",752
+"VDP","VEND","เอ็ม-150",737
+"VDC","SCBDEPOSIT","SCBDEPOSIT",735
+"VDC","TRUE","TRUE",574
+"VDP","VEND","เป๊ปซี่-สลิม",337
+"VDP","VEND","โค้ก-สลิม (1x24)",320
+"VDP","VEND","บิ๊กกรีนที น้ำผึ้งผสมมะนาว",294
+"VDC","FOODCOURT_TOPUP","FOODCOURT_TOPUP",275
+"VDC","AIRPAYWALLET","AIRPAYWALLET",248
+"VDC","SBMTOPUPWALLET","SBMTOPUPWALLET",236
+"VDP","VEND","น้ำดื่ม อุลตร้าแมน ขนาด ml.",199
+"VDP","VEND","คาราบาวแดง",190
+"VDC","DTACPROSERM","DTACPROSERM",185
+"VDP","VEND","เนสกาแฟ -เอสเปรสโซ",171
+"VDP","VEND","เนสกาแฟ - ลาเต้",168
+"VDP","VEND","โวลต์-กาแฟอีนและซิงค์ 215 ml.",165
+"VDP","VEND","บิ๊กกรีนที",165
+"VDP","VEND","น้ำแร่ อุลตร้าแมน ขนาด 500ml.",152
+"VDP","VEND","เมจิกฟาร์ม -มะพร้าว",151
+"VDC","PWA","PWA",143
+"VDP","VEND","ผลิตภัณฑ์นมจืด ตรา ว้าวว",122
+"VDP","VEND","เครื่องดื่มเจลลี่รสสตรอเบอร์รี่6.11",101
+"VDP","VEND","เอสเพลย์-เกรปเบอร์รี่ 250 ml",90
+"VDP","VEND","เอสเพลย์-ครีมโซดา",88
+"VDP","VEND","เอส-โคล่า",87
+"VDC","RABBITCARD-TOPUP","RABBITCARD-TOPUP",76
+"VDC","BAACDEPOSIT","BAACDEPOSIT",76
+"VDC","GSBDEPOSITONLINE","GSBDEPOSITONLINE",75
+"VDP","SBMDIPCHIP","SBMDIPCHIP",72
+"VDP","VEND","เบอร์ดี้โรบัสต้า",71
+"VDC","SBMDIPCHIP","SBMDIPCHIP",70
+"VDP","VEND","UFC- เฉาก๊วย",70
+"VDC","AISPROSERM","AISPROSERM",69
+"VDP","VEND","เลมอนโซดา ตราสิงห์ ขนาด 330cc.",67
+"VDP","VEND","611 เอ็มจอย ml. องุ่น",65
+"VDP","VEND","บิ๊กโคล่า-น้ำดำ",62
+"VDC","3BBONLINE","3BBONLINE",60
+"VDP","VEND","ชเวปส์",60
+"VDP","VEND","แฟนต้า-แดง  (1x24)",60
+"VDP","VEND","611 น้ำวิตามินซี (Six.Eleven)",53
+"VDP","VEND","ซีวิท-เลมอน",51
+"VDP","VEND","เอส เพลย์ สตรอเบอร์รี่(กระป๋อง) 250 ml",50
+"VDC","GSBDEPOSIT","GSBDEPOSIT",49
+"VDP","VEND","ซีวิท-ออเร้นจ์",47
+"VDP","VEND","น้ำแร่มองต์เฟลอ",46
+"VDP","VEND","คอนเน่",42
+"VDC","BAYDEPOSIT","BAYDEPOSIT",41
+"VDP","VEND","มาม่า คัพ-ต้มยำกุ้งน้ำข้น",40
+"VDP","VEND","ปาร์ตี้ คาราเมล",39
+"VDP","VEND","สแน็คแจ๊ค",39
+"VDP","VEND","โค้ก-ซีโร่ 245ml. (1x12)",38
+"VDP","VEND","ปาปิก้า",37
+"VDC","TRUEPROSERM","TRUEPROSERM",36
+"VDP","VEND","เบอร์ดี้เอสเปรสโซ",35
+"VDP","VEND","611 น้ำเกลือแร่ (Six.Eleven)",35
+"VDP","VEND","เทสโตแผ่นหยัก ปูผัดผงกระหรี่",33
+"VDP","VEND","Coke (ขวด)",31
+"VDP","VEND","มาม่า คัพ-หมูสับ",30
+"VDP","VEND","611 เอ็มจอยml ลิ้นจี่",30
+"VDC","MYCAT","MYCAT",28
+"VDP","VEND","เทสโตแผ่นเรียบ รสสาหร่ายญี่ปุ่น 52 กรัม",27
+"VDC","DTACPOSTPAIDONLINE","DTACPOSTPAIDONLINE",26
+"VDP","VEND","เลย์ รสเอ๊กซ์ตร้า บาร์บีคิว",24
+"VDP","VEND","มาม่า คัพ-ต้มยำกุ้ง",24
+"VDP","VEND","ฮานามิ",23
+"VDP","VEND","ลิปตัน ไอซ์ที",23
+"VDP","VEND","นิสชิน พรีเมี่ยมคัพ รสไก่เผ็ดเกาหลี",22
+"VDP","VEND","เลย์ รสมันฝรั่งแท้ออริจินัลแผ่นหยัก",22
+"VDP","VEND","โดโซะรสคอร์นชีส 56g (10ชิ้น)",21
+"VDP","VEND","เจเล่บิวตี้ แบล็คเคอเรนท์150ก.",21
+"VDC","AISBILL","AISBILL",20
+"VDP","VEND","เขาช่อง ถั่วลิสงอบเกลือ 42 g.",20
+"VDP","VEND","พริงเกิลส์-ดั้งเดิม",20
+"VDP","VEND","เจเล่บิวตี้ วิตามิน เอ.ซี.อี.150g.",19
+"VDP","VEND","โดโซะรสกลมกล่อม 56g (10ชิ้น)",19
+"VDP","VEND","โฟร์โมสต์ยูเอที225มล.รสช็อกโกแลต",18
+"VDP","VEND","พริงเกิลส์-ซาวครีม",17
+"VDP","VEND","ลูกอมรสมะนาวผสมเกลือหิมาลัย",15
+"VDP","VEND","เขาช่อง ถั่วลิสงเคลือบรสกาแฟ 30 g.",14
+"VDP","VEND","โคอะล่ามาร์ช-ช๊อกโกแล็ต",13
+"VDP","VEND","ทาโร่โรล 2ม. รสเข้มข้น",12
+"VDP","VEND","ทาโร่โรล 2ม. รสบาร์บีคิว",12
+"VDP","VEND","เลย์ รสโนริสาหร่าย",11
+"VDP","VEND","นมไวตามิ้ลค์กล่องสูตรออริจินอล 300CC",11
+"VDP","VEND","โฟร์โมสต์ยูเอที225มล.รสหวาน",9
+"VDC","RABBITLINEPAY","RABBITLINEPAY",9
+"VDP","VEND","ยูนิฟน้ำผักผสมผลไม้รวมแครอทม่วง",9
+"VDP","VEND","เครื่องดื่มกัญชง ตรา คามูซี",8
+"VDC","TRUEPOSTPAID","TRUEPOSTPAID",8
+"VDP","VEND","น้ำด่าง PH+8.5  (Alkaline)",7
+"VDP","VEND","โคอะล่ามาร์ช-สตรอเบอร์รี",7
+"VDP","VEND","นมถั่วเหลืองแลตตาซอย รสหวาน250มล.",7
+"VDP","VEND","เอส PET 490มล.",6
+"VDP","VEND","ยูนิฟน้ำผักผสมผลไม้รวมผักใบเขียว",6
+"VDP","VEND","โฟร์โมสต์โอเมก้าโยเกริต์ รสผลไม้",6
+"VDP","VEND","เครื่องดื่ม น้ำกัญชา แบบอัดลม",6
+"VDP","VEND","โฟร์โมสต์ยูเอที225มล.รสจืด",6
+"VDP","VEND","โฟร์โมสต์โอเมก้า โยเกริต์พร้อมดื่ม รสส้ม",5
+"VDP","VEND","นมไวตามิ้ลค์กล่องรสงาดำ",5
+"VDP","VEND","น้ำดื่มเอสเทอร์บันนี่  มล.",5
+"VDP","VEND","ยันฮี วิตามิน วอเตอร์ ไครแซนเทมั่ม",5
+"VDC","RABBITCARD-REGISTER","RABBITCARD-REGISTER",4
+"VDC","RABBITCARD-SALE","RABBITCARD-SALE",3
+"VDC","TMNEPIN","TMNEPIN",3
+"VDC","TRIPLETBB","TRIPLETBB",3
+"VDC","MEA","MEA",3
+"VDC","TRUEONLINE","TRUEONLINE",3
+"VDP","VEND","นมไวตามิ้ลค์ขวดสูตรออริจินอล (ทูโก)",3
+"VDP","VEND","เบอร์ดี้แบล็ค น้ำตาลน้อย 180 ml.",3
+"VDC","SABUYWASH","SABUYWASH",3
+"VDC","GETFRIEND","GETFRIEND",3
+"VDC","MISTINE","MISTINE",2
+"VDP","VEND","M-Sport 250 ml.",2
+"VDC","BAACLOTTO","BAACLOTTO",2
+"VDC","CIMBDEPOSIT","CIMBDEPOSIT",2
+"VDP","VEND","อิชิตัน เย็นเย็น จับเลี้ยง 275ml.",2
+"VDP","VEND","อิชิตัน-กรีนที น้ำผึ้งผสมมะนาว 275ML",2
+"VDP","VEND","611 HONEY LYCHEE 320ml (ลิ้นจี่)",2
+"VDC","APLAY","APLAY",2
+"VDP","VEND","เดนทีนไอซ์กลิ่นเชอรี่แผง",2
+"VDP","VEND","มิลค์โก้ (ซอง) รสหวาน",2
+"VDC","TMHMOBILE","TMHMOBILE",1
+"VDP","VEND","ยูนิฟ-แครอทม่วง(กระป๋อง)",1
+"VDP","VEND","ลูกอมฮอล์น้ำผึ้ง(แผง)",1
+"VDP","VEND","น้ำดื่มเวนดิ้งพลัส อัลคาไลน์วอเตอร์",1
+"VDC","AISFIBRE","AISFIBRE",1
+"VDP","VEND","น้ำแร่ ตราเวนดิ้ง พลัส 500 มล.",1
+"VDP","VEND","PEPSI MAX 245 ml.",1
+"VDP","VEND","น้ำเปล่า รักนะ",1

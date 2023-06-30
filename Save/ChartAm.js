@@ -17,12 +17,14 @@ export default function Chart() {
         domainPadding={60}
         padding={{ top: 20, bottom: 50, left: 200, right: 0 }}
       >
-        <VictoryLine
+        <VictoryScatter
           style={{
-            data: { fill: "#564787", size: 30 },
+            data: { fill: "#564787", size: 30 }
           }}
           animate={{ duration: 1000 }}
-          data={TimeAM.slice(0, 10)}
+          data={
+            TimeAM.slice(0, 10)
+          }
           y="service_product"
           x="count"
         />

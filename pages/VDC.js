@@ -1,9 +1,9 @@
-import ContentVending from "@/components/ContentVending"
+import ContentVDC from "@/components/ContentVDC"
 
 export default function Customer() {
     return(
         <div id="Cus">
-            <ContentVending />
+            <ContentVDC />
         </div>
     )
 }

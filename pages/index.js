@@ -1,6 +1,9 @@
-import Page from '@/components/Page'
-import Testchart from '@/components/testchart'
-import Head from 'next/head'
+import DoughnutAll from "@/components/DoughnutAll";
+import { DoughnutIndexVDC } from "@/components/DougnutIndexVDC";
+import { DoughnutIndexVDP } from "@/components/DougnutIndexVDP";
+import Map from "@/components/MapAll";
+import Alltable from "@/components/TableTop10All";
+import Head from "next/head";
 
 export default function Home() {
   return (
@@ -11,8 +14,30 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      {/* <Page /> */}
-      <Testchart />
+      <div className="title" style={{ gap: "2rem", color: "black" }}>
+        <div style={{ display: "block" }}>
+          <h1>Sabuy Touch Point Overview </h1>
+          <h4 style={{ textAlign: "center" }}>( VDP & VDC )</h4>
+        </div>
+        <h2>(Jan - Dec 2022)</h2>
+      </div>
+      <div className="container">
+        <div className="Weed">
+          <Map />
+        </div>
+
+        <div style={{ display: "block"}}>
+          <div className="WeedWay" style={{ gap: "2rem", display: "flex" }}>
+            <DoughnutIndexVDC />
+            <DoughnutIndexVDP />
+          </div>
+          <br />
+          <br />
+          <br />
+          <h2>Top selling product/service by Touch point</h2>
+          <Alltable />
+        </div>
+      </div>
     </>
-  )
+  );
 }

@@ -1,4 +1,4 @@
-import ContentProduct from "@/components/ContentProduct"
+import ContentProduct from "@/components/ContentMoney"
 
 export default function Customer() {
     return(
