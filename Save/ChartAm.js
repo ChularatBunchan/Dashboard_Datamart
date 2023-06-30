@@ -28,7 +28,6 @@ export default function Chart() {
           y="service_product"
           x="count"
         />
-      </VictoryChart>
     </>
   );
 }
